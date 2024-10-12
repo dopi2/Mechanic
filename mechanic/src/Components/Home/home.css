@@ -1,0 +1,14 @@
+.background-image {
+    background-image: url(../Mechimages/homepic.png); 
+    background-size: contain;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 100vh; 
+    width: 100vw;
+    display: flex; 
+    justify-content: center; 
+    background-color: grey;
+    align-items: center; 
+    color: white; 
+  }
+  
